@@ -2,5 +2,5 @@
 
 
 
-- 🔭 I'm currently working on a small game with flutter.
-- 🌱 I’m currently learning Flame , a flutter game development tool.
+- 🔭 I'm currently working on a flutter project/
+
