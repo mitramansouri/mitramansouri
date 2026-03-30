@@ -1,17 +1,16 @@
-# Hi there, I'm Mitra Mansouri! 👋
+# Hi there, I'm Mitra!
 
-I'm a **Sofrware Developer**, **AI master's student**, and **DL and ML Enthusiast** passionate about transforming complex challenges into cutting-edge solutions. Whether I'm experimenting with new Deep Learning frameworks, building decentralized applications with Solidity, or deploying full-stack web solutions, I’m always focused on innovation and problem-solving.
+I am currently studiyng AI and Cyber security in Austria, also working as an research intern. I am mostly interested in deep learning applications in medical images, i have done some work on Cataract and chest CT datasets with foundation models (SAM, SAM2, SAM3).
 
 ---
 
-## 🧩 About Me
-- Currently pursuing a **Master’s in Artificial Intelligence** at Alpen-Adria-Universität Klagenfurt.
+## About Me
 - Experienced in **Python**, **JavaScript/TypeScript**, **Flutter**, and more.
-- Have a keen interest in **Machine Learning**, **Blockchain Development**, **Cloud Computing**, and **Full-Stack Engineering**.
+- Have a keen interest in **Machine Learning**, **Deep learning** and **Cloud Computing**.
 
 ---
 
-## 🔧 Tech Stack & Skills
+##  Tech Stack & Skills
 - **Frontend:** React, Angular, Vue.js, HTML/CSS
 - **Backend:** Node.js, Django
 - **AI/ML/DL:** Python (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch), Jupyter Notebooks
@@ -21,11 +20,11 @@ I'm a **Sofrware Developer**, **AI master's student**, and **DL and ML Enthusias
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Deep Learning techniques (Reinforcement Learning, GANs)
+##  Currently Learning
+- Advanced Deep Learning techniques (Segmentation foundation models, GANs)
 ---
 
-## 🤝 Collaboration & Open-Source
+## Collaboration & Open-Source
 I’m always excited to collaborate on:
 - **AI/ML/DL** research or practical projects
 - **Full-stack apps** involving new frameworks or architectures
